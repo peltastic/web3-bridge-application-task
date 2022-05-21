@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https/peltastic.github.io/web3-bridge-application-task/static/css/main.f4ecfdcf.css",
+    "main.js": "/https/peltastic.github.io/web3-bridge-application-task/static/js/main.0ba9fe03.js",
+    "static/media/bg.jpg": "/https/peltastic.github.io/web3-bridge-application-task/static/media/bg.b032fc0f4c39ed4a321c.jpg",
+    "index.html": "/https/peltastic.github.io/web3-bridge-application-task/index.html",
+    "main.f4ecfdcf.css.map": "/https/peltastic.github.io/web3-bridge-application-task/static/css/main.f4ecfdcf.css.map",
+    "main.0ba9fe03.js.map": "/https/peltastic.github.io/web3-bridge-application-task/static/js/main.0ba9fe03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ecfdcf.css",
+    "static/js/main.0ba9fe03.js"
+  ]
+}
