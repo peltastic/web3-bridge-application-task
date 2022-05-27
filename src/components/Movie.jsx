@@ -9,7 +9,7 @@ function Movie({ likes, name, id, clicked, price, index, liked }) {
     }
   };
   return (
-    <div className={classes.Movie}>
+    <div className={classes.Movie} onClick={LikesHandler}>
       <h1>{name}</h1>
       <div className="" onClick={LikesHandler}>
         <h1 style={{ fontSize: "20px", marginRight: "10px" }}>${price}</h1>
